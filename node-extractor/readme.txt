@@ -1,4 +1,4 @@
-Prerequisites : Ansible should be installed
+Prerequisites : Ansible should be installed, and private ssh keys and root user access to the servers you want to intall node extrector to.
 
 Step 1: Create inventory (Inventory is a list of hosts to connect to) 
 
